@@ -1,0 +1,34 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init -y
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python38\Scripts\;C:\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Microsoft VS Code\bin;C:\Users\Junior\AppData\Local\Microsoft\WindowsApps;C:\Users\Junior\AppData\Roaming\npm;C:\Program Files\Sublime Text 3;C:\Program Files\MongoDB\Server\4.0\bin;C:\Users\Junior\Dev\scripts;C:\tools\dart-sdk\bin;C:\Users\Junior\AppData\Roaming\Pub\Cache\bin;C:\Users\Junior\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.0
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\Junior\Dev\projetos\CRUD-core\src\controllers\control-process\package.json: Unexpected token 
+   in JSON at position 2
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  "{
+  	
+  }"
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

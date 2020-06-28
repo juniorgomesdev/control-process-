@@ -1,0 +1,6 @@
+{
+  "name": "control-process",
+  "version": "1.0.0",
+  "main": "controlProcess.js",
+  "license": "MIT"
+}
